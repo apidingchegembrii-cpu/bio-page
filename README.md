@@ -1,3 +1,1 @@
-who
-what
-why
+# Bio Page
